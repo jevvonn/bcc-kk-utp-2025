@@ -12,7 +12,7 @@ public class InputExample {
         System.out.print("Masukkan umur Anda: ");
         int age = scanner.nextInt();
 
-        scanner.nextLine(); // newline yang tersisa
+        // scanner.nextLine(); // newline yang tersisa
         System.out.print("Masukkan prodi Anda: ");
         String prodi = scanner.nextLine();
 

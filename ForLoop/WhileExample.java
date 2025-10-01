@@ -6,11 +6,11 @@ public class WhileExample {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        int i = 1;
-        while (i <= 10) {
-            System.out.println(i);
-            i++;
-        }
+        // int i = 1;
+        // while (i <= 10) {
+        // System.out.println(i);
+        // i++;
+        // }
 
         // While loop with break statement
         while (true) {

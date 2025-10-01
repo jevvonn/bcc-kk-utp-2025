@@ -6,9 +6,9 @@ public class ForExample {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        for (int i = 0; i < 10; i++) {
-            System.out.println("This is iteration number: " + i);
-        }
+        // for (int i = 0; i < 10; i++) {
+        // System.out.println("This is iteration number: " + i);
+        // }
 
         System.out.println("==== Sum of Numbers ====");
         System.out.print("Enter number of operations: ");
